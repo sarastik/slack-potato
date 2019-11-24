@@ -1,0 +1,22 @@
+{
+  "name": "slack-potato",
+  "version": "1.0.0",
+  "description": "A Hot Potato app for Slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarastik/slack-potato.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sarastik/slack-potato/issues"
+  },
+  "homepage": "https://github.com/sarastik/slack-potato#readme",
+  "dependencies": {
+    "@slack/bolt": "^1.4.1"
+  }
+}
